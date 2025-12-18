@@ -38,15 +38,15 @@ Designed for small to medium-sized libraries, it is lightweight, simple, and eff
 
 ## Project Structure
 
-Library-Management-System/
-├── main.c         # Main program file
-├── admin.c        # Admin functionalities
-├── student.c      # Student functionalities
-├── files.c        # File Handling
-├── library.h      # Header file with structures and prototypes
-├── books.txt      # Persistent storage for books
-├── students.txt   # Persistent storage for students
-└── README.md      # Project documentation
+- Library-Management-System/
+  - main.c        : Main program file
+  - admin.c       : Admin functionalities
+  - student.c     : Student functionalities
+  - files.c       : File Handling
+  - library.h     : Header file with structures and prototypes
+  - books.txt     : Persistent storage for books
+  - students.txt  : Persistent storage for students
+  - README.md     : Project documentation
 
 ---
 
