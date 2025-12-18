@@ -175,4 +175,4 @@ LMS.exe # Windows
 
 ## License
 
-opensource.org/licenses/MIT
+[opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
