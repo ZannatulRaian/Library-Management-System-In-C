@@ -1,4 +1,7 @@
-# Library Management System (LMS) in C
+# Library Management System in C
+
+A console-based Library Management System developed in C language. 
+Features include book management, student management, book issuance, returns, penalty calculation, and report generation. 
  
 Date: November 2025
 
